@@ -1,4 +1,4 @@
-# Eda-project
+# Online casino
 Insights of online casino data set
 
 
